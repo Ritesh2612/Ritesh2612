@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Information>
+    <person1>
+    <Name>Ritesh</Name>
+    <Hobby>Cricket</Hobby>
+</person1>
+<person2>
+    <Name>Isha</Name>
+    <Hobby>Foodie</Hobby>
+</person2>
+
+<person3>
+    <Name>Dhaval</Name>
+    <Hobby>Dancing</Hobby>
+</person3>
+<person4>
+    <Name>Rutvik</Name>
+    <Hobby>Playing</Hobby>
+</person4>
+<person5>
+    <Name>Deep</Name>
+    <Hobby>Singing</Hobby>
+</person5>
+<person6>
+    <Name>Shubham</Name>
+    <Hobby>listening Music</Hobby>
+</person6>
+<person7>
+    <Name>Sakshi</Name>
+    <Hobby>Coding</Hobby>
+</person7>
+<person8>
+    <Name>Niyati</Name>
+    <Hobby>Modeling</Hobby>
+</person8>
+<person9>
+    <Name>Aakash</Name>
+    <Hobby>Reading</Hobby>
+</person9>
+<person10>
+    <Name>Nevil</Name>
+    <Hobby>Skipping</Hobby>
+</person10>
+
+</Information>
